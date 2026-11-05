@@ -1,0 +1,7 @@
+model,subset,n_urls,share_of_sample,detection_rate
+Logistic Regression,has classic indicator,1874,0.3748,0.7428
+Logistic Regression,no classic indicator,3126,0.6252,0.1731
+Random Forest,has classic indicator,1874,0.3748,0.7279
+Random Forest,no classic indicator,3126,0.6252,0.2265
+Gradient Boosting,has classic indicator,1874,0.3748,0.6724
+Gradient Boosting,no classic indicator,3126,0.6252,0.2377

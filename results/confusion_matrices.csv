@@ -1,0 +1,13 @@
+model,actual,predicted,count
+Logistic Regression,legitimate,legitimate,1904
+Logistic Regression,legitimate,phishing,97
+Logistic Regression,phishing,legitimate,148
+Logistic Regression,phishing,phishing,1852
+Random Forest,legitimate,legitimate,1925
+Random Forest,legitimate,phishing,76
+Random Forest,phishing,legitimate,61
+Random Forest,phishing,phishing,1939
+Gradient Boosting,legitimate,legitimate,1923
+Gradient Boosting,legitimate,phishing,78
+Gradient Boosting,phishing,legitimate,50
+Gradient Boosting,phishing,phishing,1950
