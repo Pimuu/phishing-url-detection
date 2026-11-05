@@ -1,0 +1,4 @@
+model,cv_accuracy_mean,cv_f1_mean,cv_roc_auc_mean,cv_accuracy_std,cv_f1_std,cv_roc_auc_std
+Logistic Regression,0.9284,0.9284,0.9842,0.0136,0.0129,0.0037
+Random Forest,0.9557,0.9559,0.9945,0.0102,0.0100,0.0018
+Gradient Boosting,0.9599,0.9600,0.9961,0.0111,0.0110,0.0016

@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Raw real-world phishing feed (live malicious URLs, ~66 MB): never commit.
+data/external/

@@ -1,0 +1,4 @@
+model,n_urls,detection_rate,feed_commit
+Logistic Regression,5000,0.3866,12a20bf8dd2b7e78d9d38fc12b3e5c970f79d1a7
+Random Forest,5000,0.4144,12a20bf8dd2b7e78d9d38fc12b3e5c970f79d1a7
+Gradient Boosting,5000,0.4006,12a20bf8dd2b7e78d9d38fc12b3e5c970f79d1a7
